@@ -1,5 +1,5 @@
 <h1>Turnover Prediction</h1>
-Turnover prediction for Multi - SR-Bank data
+Turnover prediction for Multi - SR-Bank data (small customer for POC purpose only)
 <br>
 <br>
 <img width="969" alt="Screenshot 2023-10-13 at 08 09 01" src="https://github.com/stefan-mastilak/turnover-prediction-public/assets/74961891/310ba369-cdf3-4a58-aa88-2a857eb7a2fb">
